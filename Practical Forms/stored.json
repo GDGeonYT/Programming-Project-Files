@@ -1,0 +1,29 @@
+{
+  "Musics": [
+    {
+      "title": "Ticking Away VCT 2023 Anthem",
+      "artist": "Grabbitz & BBNO$",
+      "genre": "Rock"
+    },
+    {
+      "title": "Metamorphosis",
+      "artist": "Interworld",
+      "genre": "Phonk"
+    },
+    {
+      "title": "Shiawase - VIP",
+      "artist": "Dion Timmer",
+      "genre": "Dubstep"
+    },
+    {
+      "title": "Industry Baby - Extended",
+      "artist": "Lil Nas X",
+      "genre": "Rap"
+    },
+    {
+      "title": "One Dance",
+      "artist": "Drake",
+      "genre": "Hip-hop"
+    }
+  ]
+}

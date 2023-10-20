@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Practical</title>
+    <link
+      rel="stylesheet"
+      href="node_modules\bootstrap\dist\css\bootstrap.min.css" />
+    <link
+      rel="stylesheet"
+      href="node_modules\bootstrap-icons\font\bootstrap-icons.css" />
+  </head>
+  <body>
+    <div class="container-fluid" style="padding: 2rem;">
+      <div class="card">
+        <div class="card-header">
+          <img src="Profile.jpg" width="192" height="192" style="float: left; margin-right: 10px;">
+          <div style="padding: 12px;">
+              <h3 style="margin: 0;">Geon Ivan Dulaca</h3>
+              <h4 style="margin: 0;">10-Byron</h4>
+              <p style="margin: 0;">October 20, 2023</p>
+          </div>
+          <div style="clear: both;"></div>
+        </div>
+        <div style="padding: 20px;">
+          <div class="row">
+            <div class="col-lg-12">
+              <table class="table table-bordered table-striped table-primary">
+                <thead>
+                  <tr>
+                    <th>Title</th>
+                    <th>Artist</th>
+                    <th>Genre</th>
+                  </tr>
+                </thead>
+                <tbody id="musicTable"></tbody>
+              </table>
+              <script src="JsonDisplay.js"></script>
+            </div>
+            
+          </div>
+          </div>
+        </div>
+
+        <div style="padding: 4rem;">
+          <div class="card-header" style="padding: 12px;">
+            <h3>Add New</h3>
+          </div>
+        <div class="card-body">
+          <form id="hobbyForm">
+            <div class="row">
+              <div class="col-lg-6 mb-2">
+                <label for="category" class="form-label">Category</label>
+                <select id="Cat" class="form-select">
+                  <option value="">-</option>
+                  <option value="">Sports</option>
+                  <option value="">Technology</option>
+                  <option value="">Others</option>
+                </select>
+              </div>
+              <div class="col-lg-6 mb-2">
+                <label for="type" class="form-label">Type</label>
+                <input type="text" class="form-control" id="Type"/>
+              </div>
+            </div>
+            <hr />
+            <div class="row">
+              <div class="col-lg-12">
+                <input
+                  type="submit"
+                  value="SUBMIT"
+                  class="form-control btn btn-primary"
+                />
+              </div>
+            </div>
+          </form>
+        </div>
+        </div>
+        
+        </div>
+      </div>
+      <hr />
+      <div style="padding: 4rem;">
+      <div class="row">
+        <div class="col-lg-12">
+          <table class="table table-bordered table-striped table-warning">
+            <thead>
+              <tr>
+                  <th>No.</th>
+                  <th>Category</th>
+                  <th>Type</th>
+                  <th>Action</th>
+              </tr>
+            </thead>
+          <tbody id="tableHobby"></tbody>
+        </table>
+      </div>
+      </div>
+    </div>
+    <script src="node_modules\bootstrap\dist\js\bootstrap.bundle.min.js"></script>
+    <script src="Scripts.js"></script>
+  </body>
+</html>

@@ -1,0 +1,130 @@
+*{
+    font-family: 'Montserrat', sans-serif;
+}
+
+#Title {
+    font-size: 60px;
+    margin-left: 40px;
+    color: white;
+    opacity: 0;
+    animation: fade 1s ease-in-out forwards;
+}
+
+@keyframes fade {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+#Subtext {
+    margin-top: 50px;
+    margin-left: -50px;
+    color: white;
+    opacity: 0;
+    animation: fade 1.5s ease-in-out forwards;
+}
+
+@keyframes fade {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+  
+}
+body {
+    background: rgb(17,17,17);
+    background: linear-gradient(90deg, rgba(17,17,17,1) 0%, rgba(20,20,20,1) 100%);
+}
+
+#Bio {
+    margin-left: 30px;
+    opacity: 0;
+    animation: fade .6s ease-in-out forwards;
+}
+
+@keyframes fade {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+  
+}
+
+h1 {
+    color: white;
+}
+
+#Socials {
+    margin-left: 300px;
+    margin-top: -522px;
+    opacity: 0;
+    animation: fade 1s ease-in-out forwards;
+}
+
+@keyframes fade {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+  
+}
+#Contact {
+    margin-left: 300px;
+    margin-top: 20px;
+    opacity: 0;
+    animation: fade 1.4s ease-in-out forwards;
+}
+
+@keyframes fade {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+  
+}
+#Gif1 {
+    margin-left: 900px;
+    margin-top: -575px;
+    opacity: 0;
+    animation: fade 1.8s ease-in-out forwards;
+}
+
+@keyframes fade {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+  
+}
+#texts {
+    width: 850px;
+    position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  opacity: 0;
+    animation: fade 1.4s ease-in-out forwards;
+}
+
+@keyframes fade {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+

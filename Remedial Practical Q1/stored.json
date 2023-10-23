@@ -1,0 +1,25 @@
+{
+    "Student": [
+    {
+      "fname": "Jay Orly Mil",
+      "mname": "Legria",
+      "lname": "Santiago",
+      "age": "15",
+      "gender": "Male"
+    },
+    {
+      "fname": "Kristina Cassandra",
+      "mname": "Dillo",
+      "lname": "Roncal",
+      "age": "15",
+      "gender": "Female"
+    },
+    {
+      "fname": "Lakshmi",
+      "mname": "N/A",
+      "lname": "Limpin",
+      "age": "15",
+      "gender": "Female"
+    }
+  ]
+}

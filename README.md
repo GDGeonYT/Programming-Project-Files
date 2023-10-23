@@ -8,3 +8,6 @@ This Repository will update frequently with more folders
 
 [Update] Oct. 22, 2023:
 - Added Practical Forms (2 Examples)
+
+[Update] Oct. 23, 2023:
+- Added Remedial Practical Reference

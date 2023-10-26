@@ -1,5 +1,5 @@
 # Programing Project Files
-### Codes for References &amp; Templates By Geon & Jay
+### Codes for References By Geon & Jay
 
 This Repository will update frequently with more folders
 

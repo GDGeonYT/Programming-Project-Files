@@ -1,0 +1,23 @@
+body {
+    margin: 50px;
+}
+
+img {
+    width: 192px;
+    height: 192px;
+}
+
+.wide {
+    width: 192px;
+    height: 192px;
+}
+
+.right {
+    text-align: right;
+    margin-bottom: 1000px;
+}
+
+.hello {
+    padding: 12px;
+    text-align: right;
+}

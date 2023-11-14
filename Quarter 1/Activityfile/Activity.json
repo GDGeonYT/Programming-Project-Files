@@ -1,0 +1,29 @@
+{
+    "Things":[
+        {
+            "Title":"Barracuda",
+            "Artist":"Noise Storm",
+            "Genre":"Hip-hop"
+        },
+        {
+            "Title":"Chornos",
+            "Artist":"Decimal Cannon",
+            "Genre":"Hip-hop"
+        },
+        {
+            "Title":"Milky Way",
+            "Artist":"Decimal Cannon",
+            "Genre":"Hip-hop"
+        },
+        {
+            "Title":"Green's Jam",
+            "Artist":"Aaron Grooves",
+            "Genre":"Instrumental"
+        },
+        {
+            "Title":"Fearless",
+            "Artist":"Taylor Swift",
+            "Genre":"???"
+        }
+    ]
+}

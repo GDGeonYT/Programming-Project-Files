@@ -11,3 +11,6 @@ This Repository will update frequently with more folders
 
 [Update] Oct. 23, 2023:
 - Added Remedial Practical Reference
+
+[Update] Nov. 14, 2023:
+- More Organized Folders (Q1,Q2,Q3,Q4)

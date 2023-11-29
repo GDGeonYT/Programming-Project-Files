@@ -17,4 +17,4 @@ This Repository will update frequently with more folders
 - Note: Q2,Q3 & Q4 will show soon if there is new file uploaded
 
 [Update] Nov. 29, 2023:
--New Release! (PHP MySql Project File)
+- New Release! (PHP MySql Database Project File)

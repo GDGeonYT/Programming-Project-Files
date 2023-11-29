@@ -15,3 +15,6 @@ This Repository will update frequently with more folders
 [Update] Nov. 14, 2023:
 - More Organized Folders (Q1,Q2,Q3,Q4)
 - Note: Q2,Q3 & Q4 will show soon if there is new file uploaded
+
+[Update] Nov. 29, 2023:
+-New Release! (PHP MySql Project File)
